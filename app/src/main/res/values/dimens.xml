@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="rect_widht">200dp</dimen>
+    <dimen name="rect_height">300dp</dimen>
+</resources>
